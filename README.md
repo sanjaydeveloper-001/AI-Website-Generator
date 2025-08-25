@@ -34,7 +34,7 @@ This project is a **React + Express full-stack application** that generates clea
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-landing-page-generator.git
+git clone https://github.com/sanjaydeveloper-001/AI-Website-Generator.git
 cd ai-landing-page-generator
 ```
 
